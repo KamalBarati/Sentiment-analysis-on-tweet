@@ -41,9 +41,11 @@ Cleaned tweet: ['thank', 'support', 'positiveemoji', 'not_forget']
 # Results
 We have trained "Logistic Regression" and "Naive Bayes" methods and obtained th following results:
 
-![Logistic Regression Confusion Matrix](https://github.com/KamalBarati/Sentiment-analysis-on-tweet/blob/main/Logistic Regression confusion matrix.png))
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
 
-![Naive Bayes Confusion Matrix](https://github.com/KamalBarati/Sentiment-analysis-on-tweet/blob/main/Naive Bayes confusion matrix.png))
+![Logistic Regression Confusion Matrix](https://github.com/KamalBarati/Sentiment-analysis-on-tweet/blob/main/Logistic Regression confusion matrix.png?raw=true)
+
+![Naive Bayes Confusion Matrix](https://github.com/KamalBarati/Sentiment-analysis-on-tweet/blob/main/Naive Bayes confusion matrix.png?raw=true)
 
 
 # End Notes
