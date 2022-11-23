@@ -40,12 +40,15 @@ Raw tweet: "Thank you for your support :), won't forget http://t.co/ihELksfJjT,@
 Cleaned tweet: ['thank', 'support', 'positiveemoji', 'not_forget']
 
 # Results
-We have trained "Logistic Regression" and "Naive Bayes" methods and obtained th following results:
+We have implemented two machine learning methods. The accuracy of our "Logistic Regression" model on our test set was 0.999 and it's confusion matrix is: 
 
 ![Logistic Regression Confusion Matrix](https://github.com/KamalBarati/Sentiment-analysis-on-tweet/blob/main/Logistic-Regression-confusion-matrix.png?raw=true)
 
+And, The accuracy of our "Naive Bayes" model on our test set was 0.989 and it's confusion matrix is:
+
 ![Naive Bayes Confusion Matrix](https://github.com/KamalBarati/Sentiment-analysis-on-tweet/blob/main/Naive-Bayes-confusion-matrix.png?raw=true)
 
+Our accuracy is incredibly high. Then it might be some overfit in our model, and it would be better to test it on a new test dataset!
 
 # End Notes
 
