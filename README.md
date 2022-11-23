@@ -49,6 +49,6 @@ We have trained "Logistic Regression" and "Naive Bayes" methods and obtained th 
 
 # End Notes
 
-In this article, we learned how to approach a sentiment analysis problem. We started with preprocessing and exploration of data. Then we extracted features from the cleaned text using Bag-of-Words and TF-IDF. Finally, we were able to build a couple of models using both the feature sets to classify the tweets.
+In this project, we learned how to approach a sentiment analysis problem. We started with preprocessing and exploration of data. Then we extracted features from the cleaned text using Bag-of-Words and TF-IDF. Finally, we were able to build a couple of models using both the feature sets to classify the tweets.
 
-We investigate the most frequent word in positive tweeys which is happy symbol ( like "(:" ), and the the most frequent word in negative tweeys which is sad symbol ( like "):" ). Additionaly, we finds the importance of claning data for sentiment analysis on tweets.
+We investigate the most frequent word in positive tweets which is happy symbol ( like "(:" ), and the the most frequent word in negative tweets which is sad symbol ( like "):" ). Additionaly, we finds the importance of claning data for sentiment analysis on tweets.
