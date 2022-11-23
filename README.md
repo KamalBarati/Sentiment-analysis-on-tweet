@@ -36,6 +36,7 @@ In one of the later stages, we will be extracting numeric features from our Twit
 To shet light on cleaning data, let's see an example:
 
 Raw tweet: "Thank you for your support :), won't forget http://t.co/ihELksfJjT,@%%*"
+
 Cleaned tweet: ['thank', 'support', 'positiveemoji', 'not_forget']
 
 # Results
