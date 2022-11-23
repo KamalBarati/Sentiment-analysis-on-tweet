@@ -40,8 +40,9 @@ Cleaned tweet: ['thank', 'support', 'positiveemoji', 'not_forget']
 
 # Results
 We have trained "Logistic Regression" and "Naive Bayes" methods and obtained th following results:
+![results]([https://github.com/eduhkdcx/COVID-19-tweets-sentiment-analysis/blob/main/high_freq_word.png](https://github.com/KamalBarati/Sentiment-analysis-on-tweet/blob/main/Logistic%20Regression%20confusion%20matrix.png))
+![results]([[https://github.com/eduhkdcx/COVID-19-tweets-sentiment-analysis/blob/main/high_freq_word.png](https://github.com/KamalBarati/Sentiment-analysis-on-tweet/blob/main/Logistic%20Regression%20confusion%20matrix.png)](https://github.com/KamalBarati/Sentiment-analysis-on-tweet/blob/main/Naive%20Bayes%20confusion%20matrix.png))
 
-![results](https://github.com/eduhkdcx/COVID-19-tweets-sentiment-analysis/blob/main/high_freq_word.png)
 
 # End Notes
 
